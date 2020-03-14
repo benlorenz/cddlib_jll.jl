@@ -1,0 +1,113 @@
+[[cddlib]]
+arch = "armv7l"
+git-tree-sha1 = "5a2211d3755e7132b1f59971a1d065bf607d4324"
+libc = "glibc"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "fae37ee30246c4532ce43b250ffc398b0a9b941894e28baa9e1702dec5a5bf1c"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.arm-linux-gnueabihf.tar.gz"
+[[cddlib]]
+arch = "x86_64"
+git-tree-sha1 = "f022e682bf49821a9dc9eb20348336cbcd630a43"
+libc = "glibc"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "d71aee56049cd05c98497d770ddfd0fe284d82b7f648068525c40e9a46422d16"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.x86_64-linux-gnu.tar.gz"
+[[cddlib]]
+arch = "aarch64"
+git-tree-sha1 = "fa06c33cb06b9517b54bd42708ad89bcff4747a3"
+libc = "musl"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "435f28fe586b91040bf41b9bc661202082018d76849e9c543552792fdd48d1f1"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.aarch64-linux-musl.tar.gz"
+[[cddlib]]
+arch = "powerpc64le"
+git-tree-sha1 = "9f19ff3b6a3afbb6ab0cdf6f2677ac2b3596cf27"
+libc = "glibc"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "97b239710e0c0ee271720c154e06be18af38649500df7a56fde8bf5b75c5638f"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.powerpc64le-linux-gnu.tar.gz"
+[[cddlib]]
+arch = "x86_64"
+git-tree-sha1 = "ab61eb71cd8b6a0b2f7281c9123ec4904e94e080"
+os = "macos"
+
+    [[cddlib.download]]
+    sha256 = "d5373d208b65df59c16934c589b15f765f62245fe952f30601d257cf6ea8b8da"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.x86_64-apple-darwin14.tar.gz"
+[[cddlib]]
+arch = "x86_64"
+git-tree-sha1 = "5d156efb2291f1dade03597a4ade6fca886125b7"
+libc = "musl"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "73a57ccbd68e60c435bc8d6b6a7727cbf773dc7050840d83ad512dfb8331169c"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.x86_64-linux-musl.tar.gz"
+[[cddlib]]
+arch = "x86_64"
+git-tree-sha1 = "3fbb277e0f6b2ef558ef1f77c82e2f50c461a556"
+os = "windows"
+
+    [[cddlib.download]]
+    sha256 = "2177a48f0cfb381f28c769512fb63a81a01ffa9e779a74cb608b6f34c2a715b3"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.x86_64-w64-mingw32.tar.gz"
+[[cddlib]]
+arch = "i686"
+git-tree-sha1 = "f84e6ee988ecb76fc880c6397a2cf505588fce16"
+libc = "glibc"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "4af49b11ee509991fc75f582a4a8cb9ebd08593648949c782fb0f7b06f818b73"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.i686-linux-gnu.tar.gz"
+[[cddlib]]
+arch = "aarch64"
+git-tree-sha1 = "f50aafac5f87de0fda06d49633adecafd12509a0"
+libc = "glibc"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "3f640e71b6cd9a0e11f89ff6538c4e4eed73ef9a79b49b3b0dc923399b9f439c"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.aarch64-linux-gnu.tar.gz"
+[[cddlib]]
+arch = "i686"
+git-tree-sha1 = "b9357fbeebb2c17a1fc9080da41058be1941a82c"
+libc = "musl"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "1b625e059db75e797b75168d2d946bfba9aed8b3812df55e6f9da7e10c7e0d92"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.i686-linux-musl.tar.gz"
+[[cddlib]]
+arch = "x86_64"
+git-tree-sha1 = "df60f053046d95acfb0d24dd89d81040ae2b891d"
+os = "freebsd"
+
+    [[cddlib.download]]
+    sha256 = "2b956b55ea2f615b9960ce3c2e9191e3994c747e45c86dbc6c73e10d6d906704"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.x86_64-unknown-freebsd11.1.tar.gz"
+[[cddlib]]
+arch = "i686"
+git-tree-sha1 = "412d6566c1a1ff598578d74ada6296f1a51f76f2"
+os = "windows"
+
+    [[cddlib.download]]
+    sha256 = "3135840db6aa55af8b959df84d1b28ece9189ae4614496d3b20755ca98af6c48"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.i686-w64-mingw32.tar.gz"
+[[cddlib]]
+arch = "armv7l"
+git-tree-sha1 = "ce742b4042b5e7e3123e882c981d5a27cf4f7ad6"
+libc = "musl"
+os = "linux"
+
+    [[cddlib.download]]
+    sha256 = "082c787edfb34c96a9793ed2ae50274940b490130f0072b18f92f50433ccfcc1"
+    url = "https://github.com/benlorenz/cddlib_jll.jl/releases/download/cddlib-v0.94.0-j-6d980f22+0/cddlib.v0.94.0-j-6d980f22.arm-linux-musleabihf.tar.gz"
